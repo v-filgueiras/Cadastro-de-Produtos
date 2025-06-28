@@ -42,18 +42,17 @@ CadastroProdutos.java
 
 ## 📸 Exemplo de saída
 
-----------------------------
 Produto: Pasta de Dente
 Preço: R$ 10.00
 Quantidade em estoque: 2
 Valor total em estoque: R$ 20.00
-----------------------------
+
 Produto: Shampoo
 Preço: R$ 15.00
 Quantidade em estoque: 1
 Valor total em estoque: R$ 15.00
 Erro ao criar produto: O nome do produto não pode ser nulo ou vazio.
-----------------------------
+
 
 ## 👨‍💻 Autor
 
